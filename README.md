@@ -4,8 +4,6 @@ AI-assisted university scheduling that helps academic teams turn course data, sc
 
 ![SmartSchedule calendar dashboard and AI schedule assistant](https://fatima-alsaggaf-portfolio.vercel.app/images/projects/smartschedule.png)
 
-[Project overview in my portfolio](https://fatima-alsaggaf-portfolio.vercel.app/#projects)
-
 ## The idea
 
 Building a semester timetable means balancing academic constraints, course availability, and special student cases. SmartSchedule brings schedule generation, conflict checking, and collaborative review into one platform for scheduling committees, faculty, and students.
