@@ -1,0 +1,29 @@
+# Local secrets (at every directory depth)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+# Dependencies and generated files
+node_modules/
+.dart_tool/
+.flutter-plugins*
+.pub-cache/
+build/
+dist/
+coverage/
+# Local tools and deployment state
+.vercel/
+.claude/
+.git/
+.idea/
+.vscode/
+*.log
+*.backup
+*_old.js
+.DS_Store
+Thumbs.db
